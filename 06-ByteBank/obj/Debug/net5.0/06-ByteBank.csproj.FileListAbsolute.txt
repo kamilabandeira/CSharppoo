@@ -1,0 +1,16 @@
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\bin\Debug\net5.0\06-ByteBank.exe
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\bin\Debug\net5.0\06-ByteBank.deps.json
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\bin\Debug\net5.0\06-ByteBank.runtimeconfig.json
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\bin\Debug\net5.0\06-ByteBank.runtimeconfig.dev.json
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\bin\Debug\net5.0\06-ByteBank.dll
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\bin\Debug\net5.0\ref\06-ByteBank.dll
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\bin\Debug\net5.0\06-ByteBank.pdb
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\06-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\06-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\06-ByteBank.AssemblyInfoInputs.cache
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\06-ByteBank.AssemblyInfo.cs
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\06-ByteBank.dll
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\ref\06-ByteBank.dll
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\06-ByteBank.pdb
+C:\Users\Kamila\Desktop\Alura\ByteBank\06-ByteBank\obj\Debug\net5.0\06-ByteBank.genruntimeconfig.cache
