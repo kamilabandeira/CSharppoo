@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace _04_ByteBank
 {
@@ -20,24 +24,21 @@ namespace _04_ByteBank
             contaDoBruno.Depositar(500);
             Console.WriteLine(contaDoBruno.saldo);
 
-
-
             ContaCorrente contaDaGabriela = new ContaCorrente();
-
 
             contaDaGabriela.titular = "Gabriela";
 
             Console.WriteLine("Saldo do Bruno: " + contaDoBruno.saldo);
             Console.WriteLine("Saldo do Gabriela: " + contaDaGabriela.saldo);
 
-            bool resultadoTransferencia = contaDoBruno.Trasferir(200, contaDaGabriela);
+            bool resultadoTransferencia = contaDoBruno.Transferir(2000, contaDaGabriela);
 
             Console.WriteLine("Saldo do Bruno: " + contaDoBruno.saldo);
             Console.WriteLine("Saldo do Gabriela: " + contaDaGabriela.saldo);
 
-            Console.WriteLine("Resultado trasferêsncia: " + resultadoTransferencia);
+            Console.WriteLine("Resultado transferência: " + resultadoTransferencia);
 
-            contaDaGabriela.Trasferir(100, contaDoBruno);
+            contaDaGabriela.Transferir(100, contaDoBruno);
 
             Console.WriteLine("Saldo do Bruno: " + contaDoBruno.saldo);
             Console.WriteLine("Saldo do Gabriela: " + contaDaGabriela.saldo);

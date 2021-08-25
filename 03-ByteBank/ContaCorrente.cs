@@ -1,10 +1,7 @@
-﻿namespace _03_ByteBank
+﻿public class ContaCorrente
 {
-    internal class ContaCorrente
-    {
-        internal string titular;
-        internal int agencia;
-        internal int numero;
-        internal int saldo;
-    }
+    public string titular;
+    public int agencia;
+    public int numero;
+    public double saldo = 100;
 }
